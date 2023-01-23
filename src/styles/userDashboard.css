@@ -1,0 +1,97 @@
+.userdashboard_text{
+    border: 1px solid transparent;
+    width: 1030px;
+    height: 240px;
+    padding: 30px;
+    margin-top: 170px;
+    background-image: url("/public/images/white.avif");
+    background-size: cover;
+    
+}
+.userdashboard_button button{
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 9px 30px;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 79.99%;
+}
+.userdashboard_text h1{
+    border-bottom: 3px solid rgb(74, 171, 193);
+}
+.userdashboard_text1{
+    border: 1px solid transparent;
+    width: 1180px;
+    height: 200px;
+    padding: 30px;
+    margin-left:  140px; ;
+    margin-top: 170px;
+    background-image: url("/public/images/white.avif");
+    background-size: cover;
+    
+}
+.userdashboard_text1 h1{
+    border-bottom: 3px solid rgb(74, 171, 193);
+}
+
+.userdashboard_img{
+    background-image: url('/public/images/userdashboardimg.avif');
+    height: 60vh;
+    width: 1230px;
+    margin-left: 140px;
+    background-size: cover;
+}
+.userdashboard_text2{
+    border: 1px solid transparent;
+    width: 900px;
+    height: 334px;
+    padding: 30px;
+    margin-left:  135px; ;
+    margin-top: 170px;
+    background-image: url("/public/images/white.avif");
+    background-size: cover;
+    position: relative;
+    top: 35%;
+}
+.userdashboard_text2 h1{
+    border-bottom: 3px solid rgb(74, 171, 193);
+}
+.userdashboard_button1 button{
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 9px 30px;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 85.5%;
+    margin-right: 250px;
+}
+.down-para{
+    border: 1px solid transparent;
+    height: 160px;
+    padding: 130px  390px;
+    margin-top: 170px;
+    background-image: url("/public/images/userdashboard.img1.webp");
+    background-size: cover;
+    
+}
+.userdashboard_button3 button{
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 9px 30px;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+    left: 38.5%;
+}
+.down-para p{
+    margin-left: 55px;
+    color: white;
+}
+.down-para h1{
+    color: white;
+}

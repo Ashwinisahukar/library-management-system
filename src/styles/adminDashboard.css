@@ -1,0 +1,53 @@
+.dashboard_img {
+    border: 1px solid transparent;
+    width: 800px;
+    height: 250px;
+    margin-left: 300px;
+    margin-top: 40px;
+    margin-bottom: 250px;
+    background-image: url("/public/images/admindashboardimg.png");
+    
+     
+    }
+    .dashboard_text{
+        border: 1px solid transparent;
+        width: 570px;
+        height: 330px;
+        margin-left: 87px;
+        margin-top: 120px;
+        padding: 0px 30px;
+    background-color: white;
+    background-image: url("/public/images/white.avif");
+    
+    }
+    .dashboard_text a{
+        text-decoration:underline;
+        color: orange;
+    }
+    .dashboard_text h1{
+        border-bottom: 2px solid orange;
+        text-decoration:underline orange ;
+    }
+    .admindashboard{
+        margin-left: 100px;
+    }
+    .dashboard_text1{
+        border: 1px solid transparent;
+        width: 570px;
+        height: 380px;
+        margin-left: 87px;
+        margin-top: 120px;
+        padding: 0px 30px;
+    background-color: white;
+    background-image: url("/public/images/white.avif");
+    }
+    .dashboard_text1 h1{
+        border-bottom: 2px solid orange;
+        text-decoration:underline orange;
+    }
+    .dashboard_text1 a{
+        text-decoration:underline;
+        color: orange;
+    }
+
+

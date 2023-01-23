@@ -1,0 +1,56 @@
+.addbook{
+    text-align: center;
+   border: 4px solid black;
+   width: 400px;
+   background-color: white;
+   margin-left: 500px;
+   border-radius: 5px;
+}
+.title input{
+   border-radius: 5px;
+   padding: 10px 100px;
+   margin: 10px;
+}
+.categories input{
+    border-radius: 5px;
+    padding: 10px 100px;
+    margin: 10px;
+}
+.authors input{
+    border-radius: 5px;
+    padding: 10px 100px;
+    margin: 10px;
+}
+.long input{
+    border-radius: 5px;
+    padding: 10px 100px;
+    margin: 10px;
+}
+.short textarea{
+    border-radius: 5px;
+    padding: 10px 60px;
+    height: 30px;
+}
+.long textarea{
+    border-radius: 5px;
+    padding: 10px 60px;
+    height: 30px;
+}
+.page input{
+    border-radius: 5px;
+    padding: 10px 100px;
+    margin: 10px;
+}
+.thumbnail input{
+    border-radius: 5px;
+    padding: 10px 100px;
+    margin: 10px;
+}
+.but_list button{
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}

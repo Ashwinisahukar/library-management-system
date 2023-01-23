@@ -1,0 +1,17 @@
+ .main{
+    display: flex;
+    justify-content: space-evenly;
+    height:  20px;
+   margin-bottom: 100px;
+   align-items: center;
+}
+.nav_Links li{
+    display: inline;
+    margin: 0px 30px;
+}
+.nav{
+text-decoration: none;
+color: black;
+font-weight: bold;
+font-size: 20px;
+}
